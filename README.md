@@ -6,5 +6,5 @@ You have 4 options i.e. 1) fight
                         2) run
                         3) look around
                         4) exit
-# Happy Playing
+**Happy Playing**
 ****************************Believe in magic you muggle****************************
