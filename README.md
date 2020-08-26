@@ -9,4 +9,4 @@ Your Hero wizard fights against other wizards/creatures based on his/her level<b
 4) Exit
 
 #### Happy Playing
-****************************Believe in magic you muggle****************************
+***Believe in magic you muggle***
